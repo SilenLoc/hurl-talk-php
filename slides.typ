@@ -42,6 +42,33 @@
 
 ]
 
+#new-section[Hurl]
+
+
+#slide[
+  = Hurl
+
+- Orange - Open Source
+- Apache License - Version 2.0
+
+- Written in Rust
+- Depends on and lives off libcurl
+
+]
+
+#slide[
+  = Hurl
+
+Main Maintainers:
+
+- https://github.com/lepapareil
+- https://github.com/fabricereix
+- https://github.com/jcamiel
+
+Written in Rust, depends on and lives off libcurl
+
+]
+
 #new-section[Files]
 
 
